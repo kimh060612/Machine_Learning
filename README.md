@@ -10,4 +10,4 @@ Michael's Machine Learning Algorithm Study Repository
 <br>
 
 > In addition, Many other Machine Learning Algorithm will be updated.
-> With Numerical Analysis
+> With Numerical Analysis and so on
