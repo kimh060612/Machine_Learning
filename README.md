@@ -5,7 +5,7 @@ Michael's Machine Learning Algorithm Study Repository
 > Kyung Hee Univ. Computer Vision Lab Kim_GH's Machine Learning Library
 > In here, Neural Network Architecture written in C++ will be updated
 > <br>
-> < MLP, Convolutional Neural Network, REcurrent Neural Network, etc. >
+> < MLP, Convolutional Neural Network, Recurrent Neural Network, etc. >
 
 <br>
 
